@@ -136,10 +136,11 @@ Examples:
 ### Creating a subcommittee : `add-sc`
 
 Creates a new subcommittee.
-Subcommittee names can only contain letters, numbers, spaces, hyphens (`-`), ampersands (`&`), and parentheses (`(` and `)`).
-Subcommittee names cannot be blank.
 
 Format: `add-sc sc/SUBCOMMITTEE`
+
+- Subcommittee names can only contain letters, numbers, spaces, hyphens (`-`), ampersands (`&`), and parentheses (`(` and `)`).
+- Subcommittee names cannot be blank.
 
 Examples:
 
